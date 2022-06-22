@@ -23,8 +23,8 @@
 #include <ESP8266WiFi.h>
 
 // Network SSID
-const char* ssid = "viszlat";
-const char* password = "10c2fb517e";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 long rssi;
 bool led;
